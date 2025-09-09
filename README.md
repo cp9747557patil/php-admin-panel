@@ -1,2 +1,2 @@
-# php-admin-panelwscube
-php-admin-panelwscube
+# php-admin-panel
+php-admin-panel
